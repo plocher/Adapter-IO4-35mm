@@ -5293,9 +5293,9 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 </classes>
 <parts>
 <part name="FRAME1" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
-<part name="U$1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="M" value="DOC-OSHW-LOGO-M"/>
+<part name="U$1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="M" value="OSHW"/>
 <part name="JP1" library="SPCoast" deviceset="CONNECTOR-M06" device="3.5MM-6" value="3.5mm"/>
-<part name="J4" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C" value="RJ45"/>
+<part name="J4" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C" value="RJ12/6"/>
 </parts>
 <sheets>
 <sheet>
